@@ -1,0 +1,4 @@
+metodos,metodos,Baja,Por Hacer,15/12/2024,15/01/2025,metodos
+Prueba de tarea,creacion de tarea,Alta,Por Hacer,10/10/25,18/12/24,funciona?
+tarea 2,reemplazo,Media,Por hacer,10/10/25,18/12/24,ninguno
+tarea 3,prueba de creacion 3,Baja,Por Hacer,10/10/25,18/12/24,ninguno
